@@ -9,15 +9,18 @@ header{
 }
 
 section{
-    background: white;
+    background: #c7985b;
     color: black;
     border-radius: 10px;
     padding: 15px;
     align-items: center;
     width: 500px;
-    border-width: 2em;
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.527);
+}
+div{
+    /*padding-top: 20px;*/
+    padding-top: 5px;
 }
 
 footer{
